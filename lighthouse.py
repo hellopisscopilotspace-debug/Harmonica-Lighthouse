@@ -1,4 +1,4 @@
-python# Copyright (c) 2026 hellopisscopilotspace-debug
+# Copyright (c) 2026 hellopisscopilotspace-debug
 # Project: HARMONICA-LIGHTHOUSE (The Sovereign Shield & Truth Lens)
 # Licensed under GNU GPL v3.0
 
